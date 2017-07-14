@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('j2v8-3.1.6.aar'))
